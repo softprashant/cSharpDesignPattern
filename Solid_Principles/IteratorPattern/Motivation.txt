@@ -1,0 +1,4 @@
+﻿Think of IEnumerable
+
+it is used to iterate over a collection in a way that you maintain the previous state and 
+have the reference to the current state

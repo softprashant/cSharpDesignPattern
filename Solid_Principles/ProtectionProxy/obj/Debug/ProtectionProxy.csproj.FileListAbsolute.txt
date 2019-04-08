@@ -1,0 +1,10 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\bin\Debug\ProtectionProxy.exe.config
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\bin\Debug\ProtectionProxy.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\bin\Debug\ProtectionProxy.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\obj\Debug\ProtectionProxy.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\obj\Debug\ProtectionProxy.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\obj\Debug\ProtectionProxy.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\bin\Debug\CarDrivingLibrary.API.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\bin\Debug\CarDrivingLibrary.API.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\obj\Debug\ProtectionProxy.csprojAssemblyReference.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ProtectionProxy\obj\Debug\ProtectionProxy.csproj.CopyComplete

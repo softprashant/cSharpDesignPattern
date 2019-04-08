@@ -1,0 +1,4 @@
+﻿The flyweight pattern is used for performance improvement w.r.t space in Memory
+
+e.g For example - You are having  a employee class. You have employees same  first  names 
+those should be added in 

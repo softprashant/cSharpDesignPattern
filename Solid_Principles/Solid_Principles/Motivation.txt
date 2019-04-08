@@ -1,0 +1,5 @@
+To create the clone of the existing object and it should be deepcopy
+
+1  : Simply use IClonable - Clone method return object , needs casting
+2  : Create an interface IPrototype<T> and solves the problem of casting
+3  : Using serealization - Memory or XML

@@ -1,0 +1,4 @@
+﻿The motivation behind the interpeter to convert a text to OOP form
+
+For example - XML can be converted to OOPS by Linq to XML  ->  XLinq
+

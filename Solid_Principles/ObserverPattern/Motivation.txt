@@ -1,0 +1,5 @@
+﻿This pattern is used when we want to notify the subscribers
+for a change/any event occur -
+
+The event could be like is a property value is changes
+The manually trigger of the event

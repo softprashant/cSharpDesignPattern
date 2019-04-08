@@ -1,0 +1,10 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\bin\Debug\AbstractFactoryPatternClient.exe.config
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\bin\Debug\AbstractFactoryPatternClient.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\bin\Debug\AbstractFactoryPatternClient.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\bin\Debug\AbstractFactoryPattern.HotDrinkFactory.API.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\bin\Debug\AbstractFactoryPattern.HotDrinkFactory.API.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\obj\Debug\AbstractFactoryPattern.Client.csprojAssemblyReference.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\obj\Debug\AbstractFactoryPattern.Client.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\obj\Debug\AbstractFactoryPattern.Client.csproj.CopyComplete
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\obj\Debug\AbstractFactoryPatternClient.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AbstractFactoryPatternClient\obj\Debug\AbstractFactoryPatternClient.pdb

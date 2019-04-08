@@ -1,0 +1,14 @@
+﻿The decorator pattern is used to add more funcationlity to a class
+in a way that you will not write the code in the same class although 
+it is fine because you are satifiying the OCP but it may break the SRP
+
+Also there may be a case where you have the class coming from API which is 
+sealed hence ineritence is not an option.
+
+So by defnition - 
+
+Adapter pattern the pattern which is used to enhanve the current class 
+functionality without inhertence or writing the code inside the class
+
+-- In this project we will build Custom String Builder - Need to do it is taht
+   beacuse the StringBuider is a sealed class

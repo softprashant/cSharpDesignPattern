@@ -1,0 +1,6 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FlyWeightPattern\bin\Debug\FlyWeightPattern.exe.config
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FlyWeightPattern\bin\Debug\FlyWeightPattern.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FlyWeightPattern\bin\Debug\FlyWeightPattern.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FlyWeightPattern\obj\Debug\FlyWeightPattern.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FlyWeightPattern\obj\Debug\FlyWeightPattern.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FlyWeightPattern\obj\Debug\FlyWeightPattern.pdb

@@ -1,0 +1,6 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.Client\bin\Debug\CustomStringBuilder.Client.exe.config
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.Client\bin\Debug\CustomStringBuilder.Client.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.Client\bin\Debug\CustomStringBuilder.Client.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.Client\obj\Debug\CustomStringBuilder.Client.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.Client\obj\Debug\CustomStringBuilder.Client.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.Client\obj\Debug\CustomStringBuilder.Client.pdb

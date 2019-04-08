@@ -1,0 +1,6 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AdapterPattern.Client\bin\Debug\AdapterPattern.Client.exe.config
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AdapterPattern.Client\bin\Debug\AdapterPattern.Client.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AdapterPattern.Client\bin\Debug\AdapterPattern.Client.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AdapterPattern.Client\obj\Debug\AdapterPattern.Client.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AdapterPattern.Client\obj\Debug\AdapterPattern.Client.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\AdapterPattern.Client\obj\Debug\AdapterPattern.Client.pdb

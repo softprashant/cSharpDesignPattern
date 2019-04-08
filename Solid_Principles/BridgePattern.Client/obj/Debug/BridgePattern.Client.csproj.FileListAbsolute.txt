@@ -1,0 +1,10 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\bin\Debug\BridgePattern.Client.exe.config
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\bin\Debug\BridgePattern.Client.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\bin\Debug\BridgePattern.Client.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\obj\Debug\BridgePattern.Client.csprojAssemblyReference.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\obj\Debug\BridgePattern.Client.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\obj\Debug\BridgePattern.Client.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\obj\Debug\BridgePattern.Client.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\bin\Debug\EnvironmentMessage.API.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\bin\Debug\EnvironmentMessage.API.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\BridgePattern.Client\obj\Debug\BridgePattern.Client.csproj.CopyComplete

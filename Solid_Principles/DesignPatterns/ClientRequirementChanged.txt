@@ -1,0 +1,23 @@
+﻿The client wanted to only build Name but now he wants to setup the position
+
+so there is a need to have the personPositionBuilder , but we would still seek  builder
+pattern to a fluent API.
+
+One could think of having another class that inherits the PersonNameBuilder  - 
+
+See the issue in folder - APIShippedDay5
+
+
+What I have acheived - 
+
+I can keep on building the buidler using recursive generics builder pattern
+
+and I will just change the line - 
+
+Builder : PersonPositionBuilder<Builder>
+
+in person.cs
+
+to 
+
+Builder : Person(((new builder))))Builder<Builder>

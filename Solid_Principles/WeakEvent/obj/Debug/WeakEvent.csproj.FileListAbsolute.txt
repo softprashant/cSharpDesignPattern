@@ -1,0 +1,6 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\WeakEvent\bin\Debug\WeakEvent.exe.config
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\WeakEvent\bin\Debug\WeakEvent.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\WeakEvent\bin\Debug\WeakEvent.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\WeakEvent\obj\Debug\WeakEvent.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\WeakEvent\obj\Debug\WeakEvent.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\WeakEvent\obj\Debug\WeakEvent.pdb

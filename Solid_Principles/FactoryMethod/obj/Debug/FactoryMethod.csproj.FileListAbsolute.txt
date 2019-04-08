@@ -1,0 +1,2 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache

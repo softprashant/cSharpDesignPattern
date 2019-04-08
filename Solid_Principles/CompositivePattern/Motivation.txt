@@ -1,0 +1,14 @@
+﻿You are given a group - 
+	Group is Shape for example - Circle Square,Triangle,Eclispse
+	The task is to print all at once may be you are creating a GUI where
+	you have given a task callled [PrintGroup] and when you drag that to screen
+	it prints the specified number of shapes
+	
+	How will you achieve that - 
+
+	First of all - All shapes will have PrinttoBoard Method
+
+	1) There will be a base class Shape with Method PrinttoBoard
+	2) All shapes will inherit with this Shape class
+	3) You will add a logic in PrinttoBoard method of Shape Class where
+	   you will loop through and print list of shapes

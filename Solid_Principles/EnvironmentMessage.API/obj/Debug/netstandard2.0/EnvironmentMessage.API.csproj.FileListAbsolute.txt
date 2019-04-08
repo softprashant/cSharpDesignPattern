@@ -1,0 +1,9 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\EnvironmentMessage.API\bin\Debug\netstandard2.0\EnvironmentMessage.API.deps.json
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\EnvironmentMessage.API\bin\Debug\netstandard2.0\EnvironmentMessage.API.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\EnvironmentMessage.API\bin\Debug\netstandard2.0\EnvironmentMessage.API.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\EnvironmentMessage.API\obj\Debug\netstandard2.0\EnvironmentMessage.API.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\EnvironmentMessage.API\obj\Debug\netstandard2.0\EnvironmentMessage.API.AssemblyInfoInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\EnvironmentMessage.API\obj\Debug\netstandard2.0\EnvironmentMessage.API.AssemblyInfo.cs
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\EnvironmentMessage.API\obj\Debug\netstandard2.0\EnvironmentMessage.API.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\EnvironmentMessage.API\obj\Debug\netstandard2.0\EnvironmentMessage.API.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\EnvironmentMessage.API\obj\Debug\netstandard2.0\EnvironmentMessage.API.csprojAssemblyReference.cache

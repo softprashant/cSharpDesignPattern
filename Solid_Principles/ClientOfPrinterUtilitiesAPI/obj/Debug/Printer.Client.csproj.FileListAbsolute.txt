@@ -1,0 +1,10 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\bin\Debug\ClientOfPrinterUtilitiesAPI.exe.config
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\bin\Debug\ClientOfPrinterUtilitiesAPI.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\bin\Debug\ClientOfPrinterUtilitiesAPI.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\bin\Debug\PrinterAPI.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\bin\Debug\PrinterAPI.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\obj\Debug\Printer.Client.csprojAssemblyReference.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\obj\Debug\Printer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\obj\Debug\Printer.Client.csproj.CopyComplete
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\obj\Debug\ClientOfPrinterUtilitiesAPI.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\ClientOfPrinterUtilitiesAPI\obj\Debug\ClientOfPrinterUtilitiesAPI.pdb

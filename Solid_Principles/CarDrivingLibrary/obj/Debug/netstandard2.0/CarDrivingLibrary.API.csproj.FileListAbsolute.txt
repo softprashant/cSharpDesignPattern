@@ -1,0 +1,9 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CarDrivingLibrary\bin\Debug\netstandard2.0\CarDrivingLibrary.API.deps.json
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CarDrivingLibrary\bin\Debug\netstandard2.0\CarDrivingLibrary.API.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CarDrivingLibrary\bin\Debug\netstandard2.0\CarDrivingLibrary.API.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CarDrivingLibrary\obj\Debug\netstandard2.0\CarDrivingLibrary.API.csprojAssemblyReference.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CarDrivingLibrary\obj\Debug\netstandard2.0\CarDrivingLibrary.API.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CarDrivingLibrary\obj\Debug\netstandard2.0\CarDrivingLibrary.API.AssemblyInfoInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CarDrivingLibrary\obj\Debug\netstandard2.0\CarDrivingLibrary.API.AssemblyInfo.cs
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CarDrivingLibrary\obj\Debug\netstandard2.0\CarDrivingLibrary.API.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CarDrivingLibrary\obj\Debug\netstandard2.0\CarDrivingLibrary.API.pdb

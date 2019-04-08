@@ -1,0 +1,9 @@
+﻿Motivation to have the factory pattern is that 
+we want ot use the cocept of seperation of concern
+For smaller classes it ois ok to have constructor creating to
+objects but somehow for larger classes is advisable to delegate this
+responsibility to A seperate class
+
+compare the Factory Method Point class with the Point class
+
+Drawback of the Factory pattern is that now you have to make constructor public (point)

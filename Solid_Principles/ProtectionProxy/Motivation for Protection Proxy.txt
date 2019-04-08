@@ -1,0 +1,8 @@
+﻿- Want to perform certain task (in other words wants to execute the method)
+
+C -> Action()
+You got this class from an API 
+but to consume the Action() method you actually want to do some check or in other words
+protection before to run the Action() mented in the class C
+
+CProxy class and via that class will refer the class C but before that you will apply certain checks

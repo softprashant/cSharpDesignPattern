@@ -1,0 +1,7 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FacadeBuilderPattern\bin\Debug\FacadeBuilderPattern.exe.config
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FacadeBuilderPattern\bin\Debug\FacadeBuilderPattern.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FacadeBuilderPattern\bin\Debug\FacadeBuilderPattern.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FacadeBuilderPattern\obj\Debug\FacadeBuilderPattern.csprojAssemblyReference.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FacadeBuilderPattern\obj\Debug\FacadeBuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FacadeBuilderPattern\obj\Debug\FacadeBuilderPattern.exe
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\FacadeBuilderPattern\obj\Debug\FacadeBuilderPattern.pdb

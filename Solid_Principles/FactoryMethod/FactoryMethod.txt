@@ -1,0 +1,16 @@
+﻿Why factory method -
+
+You want to create  object  in a way that - You want to create more then two way with the same parameters 
+
+When I say creational it is always relate to constructor
+
+So , 
+
+Point(double a , double b)
+
+Point(double cos ,double sin) [Not possible]
+
+
+So Factory Method comes into rescue 
+
+See code

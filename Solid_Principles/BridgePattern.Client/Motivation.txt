@@ -1,0 +1,17 @@
+﻿Client says print the circle and show me on console
+
+You may have a different operating system in your laptop so assuming that printing 
+circle and showing in console will have a different way for every operating system
+
+-- Cclient doesn't need to know the which operating system you are using.He is only 
+concerned about seeing the a circle printed on the console with given radius
+
+So there is a need to decouple the actual implementation of how you print with an abstraction
+
+At run time you need to specify which OS is being used and which can be achieved with
+dependency injection
+
+
+-- Another example if the depending on Envirnment you are showing the expection message
+to the user when any exception occur in your website.
+Let's implement this --

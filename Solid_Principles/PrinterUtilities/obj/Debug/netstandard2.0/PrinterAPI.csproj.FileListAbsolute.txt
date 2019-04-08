@@ -1,0 +1,9 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\PrinterUtilities\bin\Debug\netstandard2.0\PrinterAPI.deps.json
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\PrinterUtilities\bin\Debug\netstandard2.0\PrinterAPI.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\PrinterUtilities\bin\Debug\netstandard2.0\PrinterAPI.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\PrinterUtilities\obj\Debug\netstandard2.0\PrinterAPI.csprojAssemblyReference.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\PrinterUtilities\obj\Debug\netstandard2.0\PrinterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\PrinterUtilities\obj\Debug\netstandard2.0\PrinterAPI.AssemblyInfoInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\PrinterUtilities\obj\Debug\netstandard2.0\PrinterAPI.AssemblyInfo.cs
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\PrinterUtilities\obj\Debug\netstandard2.0\PrinterAPI.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\PrinterUtilities\obj\Debug\netstandard2.0\PrinterAPI.pdb

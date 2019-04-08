@@ -1,0 +1,6 @@
+﻿Motivation to abstract factory -- 
+
+Full abstraction of creation of objects
+
+As we will return an Interface and at run time based on the option (may be an enum you pass from the client)
+respective object will be returned

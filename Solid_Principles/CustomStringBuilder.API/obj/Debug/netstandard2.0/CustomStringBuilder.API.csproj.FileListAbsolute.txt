@@ -1,0 +1,8 @@
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.API\bin\Debug\netstandard2.0\CustomStringBuilder.API.deps.json
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.API\bin\Debug\netstandard2.0\CustomStringBuilder.API.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.API\bin\Debug\netstandard2.0\CustomStringBuilder.API.pdb
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.API\obj\Debug\netstandard2.0\CustomStringBuilder.API.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.API\obj\Debug\netstandard2.0\CustomStringBuilder.API.AssemblyInfoInputs.cache
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.API\obj\Debug\netstandard2.0\CustomStringBuilder.API.AssemblyInfo.cs
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.API\obj\Debug\netstandard2.0\CustomStringBuilder.API.dll
+C:\Users\Prashant\OneDrive\Study\Code\CSharp\Design_Pattern\Solid_Principles\CustomStringBuilder.API\obj\Debug\netstandard2.0\CustomStringBuilder.API.pdb
