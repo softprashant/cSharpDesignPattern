@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AbstractFactoryPattern.HotDrinkFactory.API
+build_property.ProjectDir = C:\Users\pkvpe\Source\Repos\softprashant\cSharpDesignPattern\Solid_Principles\AbstractFactoryPattern.HotDrinkFactory\
